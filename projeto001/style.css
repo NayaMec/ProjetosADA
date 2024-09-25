@@ -1,0 +1,13 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
